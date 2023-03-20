@@ -1,0 +1,142 @@
+    1  git clone Umuzi-org/Amogelang-Bogatsu-219-level-1-programming-katas-javascript.git 
+    2  git clone git@github.com:Umuzi-org/Amogelang-Bogatsu-219-level-1-programming-katas-javascript.git
+    3  git checkout main 
+    4  git pull
+    5  git checkout -b task/1
+    6  cp github.sh ~/github.sh
+    7  ssh -T git@github.com 
+    8  pkg install openssh 
+    9  pkg install dropbear 
+   10  ssh -T git@github.com
+   11  pkg r tm 
+   12  ~/storage/<UMUZIBOOTCAMP>
+   13  ~/storage/shared/<UMUZIBOOTCAMP>
+   14  bash install.sh
+   15  git clone https://github.com/Umuzi-org/Amogelang-Bogatsu-219-level-1-programming-katas-javascript 
+   16  git clone https://github.com/Umuzi-org/Amogelang-Bogatsu-219-level-1-programming-katas-javascript
+   17  git help 
+   18  git clone https://github.com/Umuzi-org/Amogelang-Bogatsu-219-level-1-programming-katas-javascript
+   19  git checkout main 
+   20  git pull
+   21  cd 
+   22  ls -a
+   23  git init 
+   24  ls -a
+   25  git status 
+   26  touch README.md
+   27  ls -a 
+   28  git status 
+   29  git log 
+   30  git add 
+   31  git add <README.md> 
+   32  git add <README.md>...
+   33  git status 
+   34  git add README.md 
+   35  git status 
+   36  git reset HEAD README.md 
+   37  git checkout --
+   38  git rm 
+   39  git rm README.md 
+   40  -f
+   41  git status 
+   42  git rm --cached README.md 
+   43  git status 
+   44  git add README.md 
+   45  git commit -m "initial commit" 
+   46  git log 
+   47  q
+   48  git q 
+   49  nano README.md 
+   50  cat README.md 
+   51  git status 
+   52  git-basic-exercises 
+   53  git checkout -b git-basic-exercises 
+   54  cd 
+   55  ls -a
+   56  git init 
+   57  ls -a
+   58  git status 
+   59  touch README.md 
+   60  ls -a 
+   61  git status 
+   62  git log 
+   63  nano README.md 
+   64  cat README.md 
+   65  git status 
+   66  git commit -m "second commit" 
+   67  nano README.md 
+   68  cat README.md
+   69  git status 
+   70  git commit -m "second commit" 
+   71  git add README.md 
+   72  git status 
+   73  git commit -m "second commit" 
+   74  git status 
+   75  nano README.md 
+   76  cat README.md 
+   77  git add README.md 
+   78  git status 
+   79  git commit -m "third commit" 
+   80  git log 
+   81  q 
+   82  git checkout ed3d0deb58e9d3c3ee3115dbf4ca1b98ba063349 
+   83  cat README.md 
+   84  git checkout main 
+   85  cat README.md 
+   86  git checkout master
+   87  git checkout ed3d0deb58e9d3c3ee3115dbf4ca1b98ba063349
+   88  cat README.md 
+   89  git checkout master 
+   90  cat README.md 
+   91  git branch 
+   92  git checkout -b milkshake-flavours 
+   93  git branch 
+   94  git checkout master 
+   95  git branch 
+   96  git checkout milkshake-flavours 
+   97  git branch 
+   98  nano milkshakes.md 
+   99  git status 
+  100  git add milkshakes.md 
+  101  git checkout -m "added initial flavours" 
+  102  git status 
+  103  git commit -m "added initial flavours" 
+  104  git log 
+  105  git branch 
+  106  history > history.txt 
+  107  git checkout -m "added history" 
+  108  git add milkshakes.md 
+  109  git checkout -m "added history" 
+  110  git add milkshakes.md 
+  111  git status 
+  112  git add milkshakes.md 
+  113  git status 
+  114  git checkout -m "added history" 
+  115  git log 
+  116  git add history.txt 
+  117  git status 
+  118  git checkout -m "added history" 
+  119  git status
+  120  git checkout 
+  121  git checkout -m "added history" 
+  122  git log 
+  123  git restore --staged history.txt 
+  124  git checkout master 
+  125  git checkout -b history 
+  126  git branch 
+  127  git checkout history 
+  128  git log 
+  129  git branch 
+  130  git rm git-basic-exercises 
+  131  git branch --delete git-basic-exercises 
+  132  git branch -D git-basic-exercises
+  133  git branch 
+  134  history > history.txt 
+  135  git add history.txt 
+  136  git status 
+  137  git checkout -m "added history" 
+  138  git checkout history.txt -m "added history" 
+  139  git checkout 
+  140  git checkout -m "added history" 
+  141  git log 
+  142  history > history.txt 
